@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-State-and-District-all-Data-App/static/css/main.4c399b22.css",
+    "main.js": "/React-State-and-District-all-Data-App/static/js/main.0781acdc.js",
+    "index.html": "/React-State-and-District-all-Data-App/index.html",
+    "main.4c399b22.css.map": "/React-State-and-District-all-Data-App/static/css/main.4c399b22.css.map",
+    "main.0781acdc.js.map": "/React-State-and-District-all-Data-App/static/js/main.0781acdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c399b22.css",
+    "static/js/main.0781acdc.js"
+  ]
+}
